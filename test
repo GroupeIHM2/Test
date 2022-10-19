@@ -1,20 +1,22 @@
-# Sport et Loisir
+# <span style="color: red">Sport et Loisir
 
 ## Art
+### pein
 ## Culture
 ## Video Games/Esport
-- Immersion
+- Immersion [chien]()
 - VR
 - AR
+- Simulation
 ## Sport
 
-# Mobilitity
+# <span style="color: red">Mobilitity
 
 ## Autonomous car
 ## Smart City / Transport
 ## Aeronautics
 
-# Health
+# <span style="color: red">Health
 
 ## Medecine
 ## Medical Staff
@@ -26,7 +28,7 @@
 - Physical Disabled
 ## Personal Assistant
 
-# Education/re(education)
+# <span style="color: red">Education/re(education)
 ## Enfant
 ### Dys Trouble
 ### Normo
@@ -35,30 +37,32 @@
 ## Serious Game
 
 
-# Work Life
+# <span style="color: red">Work Life
 
 ## HSE 
 ## Mental Workflow
 ## Automatisation
 ## WareHouse
 
-# Army/Defense
+# <span style="color: red">Army/Defense
 ## H+ (Transhumanisme)
 - BCI
+## Simulation
 
-# Human fix/enhancement
+# <span style="color: red">Human fix/enhancement
+
 ## Brain Implant 
 ## Exoskeleton
 ## neuroprosthetic 
 ## BCI (Brain computer interaction)
 
-# Services
+# <span style="color: red">Services
 
 ## FinTech
 ## BioTech
 ## LegalTech
 
-# Knowledge Fields
+<span style="color: red"># Knowledge Fields
 
 ## neuroscience
 ## Exp. Design
@@ -68,4 +72,15 @@
 ## Human Factors
 ## Effect of IHM
 ### Nonhuman Agency
-### Ethics 
+### Ethics
+
+# <span style="color: red"> Technique
+## Haptic Interface
+## VR
+## AR
+## Immersion
+
+# <span style="color: red">Digital world
+## BackEnd/FrontEND
+## Systinfo
+## Digitalisation
